@@ -41,6 +41,7 @@ It does not absorb neighboring module responsibilities. Core primitives stay in 
 - `gnalloy.org/handler-flow` (`flow`)
 
 ## Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
 ## Common Integration Pattern
